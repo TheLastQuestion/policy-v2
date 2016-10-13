@@ -13,7 +13,8 @@ In this section you will find a example of the Policy Schema in XML format.  XML
         <element>
             <OMBPolicyID>M-16-19</OMBPolicyID>
             <issuingBody>Office of Management and Budget (OMB)</issuingBody>
-            <issuingDate>8/1/2016</issuingDate>         <linkToPolicy>https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_19_1.pdf</linkToPolicy>
+            <issuingDate>8/1/2016</issuingDate>         
+	    <linkToPolicy>https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_19_1.pdf</linkToPolicy>
             <policyStatus>
                 <element>CURRENT</element>
             </policyStatus>
@@ -29,21 +30,21 @@ In this section you will find a example of the Policy Schema in XML format.  XML
                         <element>FITARA Section 834(b)(1)(A)-(E)</element>
                     </cita>
                     <deadline>Yearly</deadline>
-                    <policySection>Reporting<policySection>  
-	      <policySubSection>Strategic Plan<policySubSection>
-      <keywords>
-                        <element>IT Project Management</element>
-                        <element>Governance - Implementation</element>
+                    <policySection>Reporting</policySection>
+		    <policySubSection>Strategic Plan</policySubSection>
+		    <keywords>
+                       <element>IT Project Management</element>
+                       <element>Governance - Implementation</element>
                     </keywords>
                     <ombDataCollection>Data Center Inventory</ombDataCollection>
                     <requirementID>1201.5</requirementID>
                     <requirementIssuanceYear>2016</requirementIssuanceYear>
                     <requirementText>In accordance with FITARA, beginning in fiscal year 2016, each agency head shall annually publish a Strategic Plan to describe the agency’s consolidation and optimization strategy for fiscal years 2016, 2017, and 2018.
-</requirementText>
+		    </requirementText>
                     <requirementType>
                         <element>CURRENT</element>
                     </requirementType>
-                </element>
+		</element>
                 <element>
                     <agenciesImpacted>CFO Act Agencies</agenciesImpacted>
                     <deadline>Yearly</deadline>
