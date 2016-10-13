@@ -13,7 +13,7 @@ In this section you will find a example of the Policy Schema in XML format.  XML
         <element>
             <OMBPolicyID>M-16-19</OMBPolicyID>
             <issuingBody>Office of Management and Budget (OMB)</issuingBody>
-            <issuingDate>8/1/2016</issuingDate>         
+	    <issuingDate>8/1/2016</issuingDate>
 	    <linkToPolicy>https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_19_1.pdf</linkToPolicy>
             <policyStatus>
                 <element>CURRENT</element>
